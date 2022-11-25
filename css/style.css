@@ -142,12 +142,6 @@ img {
     width: 100%;
     flex-direction: column;
     justify-content: space-between;
-    align-items: stretch;
-   }
-   h2,h1{
-    width: 100%;
-    display: flex;
-    justify-content: flex-start;
     align-items: center;
    }
 }
